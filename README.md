@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kathirvel-Muthukaruppan,a passionate Java developer with a knack for problem-solving and building robust applications.
+- 👋 Hi, I’m @Kathirvel-Muthukaruppan,a passionate Java developer with a knack for problem-solving .
 - 👀 I’m interested in leveraging Java's versatility to create innovative solutions across various domains, from enterprise software to web applications.
 - 🌱 I’m currently learning Advanced Java Concepts to deepen my understanding of the language and stay updated with the latest trends and best practices.
 - 💞️ I’m looking to collaborate on exciting Java projects that challenge me to expand my skill set and contribute to impactful software development initiatives.
