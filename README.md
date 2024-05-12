@@ -2,9 +2,9 @@
 - 👀 I’m interested in leveraging Java's versatility to create innovative solutions across various domains, from enterprise software to web applications.
 - 🌱 I’m currently learning Advanced Java Concepts to deepen my understanding of the language and stay updated with the latest trends and best practices.
 - 💞️ I’m looking to collaborate on exciting Java projects that challenge me to expand my skill set and contribute to impactful software development initiatives.
-- 📫 How to reach me Feel free to connect with me on LinkedIn Kathirvel M or drop me an email at kathirvelm2908@gmail.com.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me Feel free to connect with me on LinkedIn (@Kathirvel M)or drop me an email at kathirvelm2908@gmail.com.
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact:  I love exploring different programming languages and experimenting with new technologies in my free tim
 
 <!---
 Kathirvel-Muthukaruppan/Kathirvel-Muthukaruppan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
